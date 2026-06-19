@@ -1,0 +1,10 @@
+name: mobile_app_developer_challenge_shivesh_tiwari
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^3.8.3
+  provider: ^6.1.1
+  confetti: ^0.7.0
+  http: ^1.2.0
+
